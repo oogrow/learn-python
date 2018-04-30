@@ -1,0 +1,44 @@
+{'rank': '1', 'singer': '孙语赛、萧全', 'song': '不仅仅是喜欢', 'song_time': '3:48'}
+
+{'rank': '2', 'singer': '烟把儿乐队', 'song': '纸短情长 (完整版)', 'song_time': '2:53'}
+
+{'rank': '3', 'singer': '金池', 'song': '有没有这样一种关系【南方有乔木电视剧插曲】', 'song_time': '4:10'}
+
+{'rank': '4', 'singer': '苏诗丁', 'song': '一二三【南方有乔木电视剧插曲】', 'song_time': '5:16'}
+
+{'rank': '5', 'singer': '腾格尔', 'song': '父亲的草原母亲的河 (Live)', 'song_time': '6:47'}
+
+{'rank': '6', 'singer': '汪苏泷', 'song': '两难【南方有乔木电视剧插曲】', 'song_time': '3:55'}
+
+{'rank': '7', 'singer': '孙子涵', 'song': '还听人劝', 'song_time': '4:07'}
+
+{'rank': '8', 'singer': 'KLYMVX、Roxanne Emery', 'song': 'Leavin', 'song_time': '3:40'}
+
+{'rank': '9', 'singer': '李泉', 'song': 'Sunny II (Live)', 'song_time': '4:54'}
+
+{'rank': '10', 'singer': '郁可唯', 'song': '影子 (Live)', 'song_time': '5:36'}
+
+{'rank': '11', 'singer': '李晓东', 'song': '我心常自在 (Live)', 'song_time': '5:12'}
+
+{'rank': '12', 'singer': '阿肆', 'song': 'Call Me', 'song_time': '3:19'}
+
+{'rank': '13', 'singer': '霍尊', 'song': '卷珠帘 (Live)', 'song_time': '5:06'}
+
+{'rank': '14', 'singer': '张天', 'song': '玫瑰玫瑰我爱你 (Live)', 'song_time': '4:32'}
+
+{'rank': '15', 'singer': '戴荃', 'song': '秋风词 (Live)', 'song_time': '3:45'}
+
+{'rank': '16', 'singer': '孟庭苇', 'song': '春花秋月何时了 (Live)', 'song_time': '3:45'}
+
+{'rank': '17', 'singer': '苏诗丁', 'song': '红眼睛 (Live)', 'song_time': '5:20'}
+
+{'rank': '18', 'singer': '米雪', 'song': '光明', 'song_time': '5:21'}
+
+{'rank': '19', 'singer': '毛晓彤', 'song': '迢迢牵牛星 (Live)', 'song_time': '3:51'}
+
+{'rank': '20', 'singer': '李圣杰', 'song': '说散就散 (Live)', 'song_time': '5:28'}
+
+{'rank': '21', 'singer': '胡彦斌', 'song': '念奴娇·赤壁怀古 (Live)', 'song_time': '4:10'}
+
+{'rank': '22', 'singer': 'KZ·谭定安', 'song': '给孩子 (Live)', 'song_time': '5:47'}
+
